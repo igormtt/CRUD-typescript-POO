@@ -3,7 +3,9 @@
 ### I cloned the repository, what should I do next?
 
 * [on console] npm i (to install the dependencies)
-* [on console] npx prisma migrate dev
+* create a .env file in the project root with this information: DATABASE_URL="file:./dev.db"
+* [on console] npx prisma migrate dev, afterwards, on the consolo, Prisma will ask for a name for the migration, you can choose one.
+* npm run dev (to run the application)
 * now, you can do the next steps bellow!
 
 ### How to use this application?
