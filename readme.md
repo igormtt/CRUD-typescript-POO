@@ -21,7 +21,6 @@
 	  "address": "your address"
   }
   ```
-
 2. **GET** http://localhost:8080/users/findUsers
   This request will return all users;
 
