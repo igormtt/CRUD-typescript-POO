@@ -4,7 +4,7 @@
 
 * [on console] npm i (to install the dependencies)
 * create a .env file in the project root with this information: DATABASE_URL="file:./dev.db"
-* [on console] npx prisma migrate dev, afterwards, on the consolo, Prisma will ask for a name for the migration, you can choose one.
+* [on console] npx prisma migrate dev, afterwards, on the console, Prisma will ask for a name for the migration, you can choose one.
 * npm run dev (to run the application)
 * now, you can do the next steps bellow!
 
