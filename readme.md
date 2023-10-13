@@ -22,7 +22,7 @@
   }
   ```
 2. **GET** http://localhost:8080/users/findUsers
-  This request will return all users;
+  This request will return all users.
 
 3.**GET** http://localhost:8080/users/getUser/{id}
   This request will return the user who has an ID equal to the one passed as a parameter in the URL.
