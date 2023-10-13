@@ -3,7 +3,6 @@
 ### I cloned the repository, what should I do next?
 
 * [on console] npm i (to install the dependencies)
-* [on console] make a .env file with the location of you database. Like this: DATABASE_URL="file:./dev.db"
 * [on console] npx prisma migrate dev
 * now, you can do the next steps bellow!
 
